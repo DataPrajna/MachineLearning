@@ -49,7 +49,7 @@ EVAL_FREQUENCY = 400  # Number of steps between evaluations.
 
 tf.app.flags.DEFINE_boolean("self_test", False, "True if running a self test.")
 FLAGS = tf.app.flags.FLAGS
-FLAGS.train_dir = "/home/amishra/trained_model/iqa/"
+FLAGS.train_dir = "/home/ppdash/trained_model/iqa/"
 FLAGS.train = True
 
 

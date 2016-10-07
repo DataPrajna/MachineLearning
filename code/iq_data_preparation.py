@@ -1,6 +1,6 @@
 import csv
 import os
-PARENT_DIR = "/home/amishra/workspace/prototype/IQ/"
+PARENT_DIR = "/home/ppdash/workspace/prototype/IQ/"
 SRC_IMG_DIR = PARENT_DIR + "src/"
 import cv2
 import numpy as np
